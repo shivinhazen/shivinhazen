@@ -33,23 +33,4 @@
 
 <br />
 
-## 📊 Activity
 
-<div align="center">
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api?username=shivinhazen&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    height="160" 
-  />
-  <img 
-    align="center" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivinhazen&theme=tokyonight&layout=compact&custom_title=Linguagens&langs_count=7" 
-    height="160" 
-  />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivinhazen&theme=tokyonight&hide_border=true" />
-</div>
