@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Lucas Leão — Software Engineer — Full Stack, Data and Applied AI" src="./assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg?v=4">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg?v=4">
+  <img alt="Lucas Leão — Software Engineer — Full Stack, Data and Applied AI" src="./assets/header-light.svg?v=4" width="100%">
 </picture>
 
 <p align="center">
