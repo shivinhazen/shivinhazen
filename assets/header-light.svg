@@ -20,12 +20,27 @@
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
     <text x="754" y="60" fill="#59636E" font-size="11" font-weight="600" letter-spacing="1.5">SYSTEM OWNERSHIP</text>
 
-    <path d="M790 126 H870 M914 126 H994 M1038 126 H1110" stroke="#8C959F" stroke-width="1.5" stroke-dasharray="5 6"/>
+    <path d="M790 126 H870 M914 126 H994 M1038 126 H1110" stroke="#8C959F" stroke-width="1.5" stroke-dasharray="5 6">
+      <animate attributeName="stroke-dashoffset" from="0" to="-22" dur="2.8s" repeatCount="indefinite"/>
+    </path>
 
-    <circle cx="768" cy="126" r="9" fill="#FFFFFF" stroke="#0969DA" stroke-width="2"/>
+    <circle cx="790" cy="126" r="2.6" fill="#0969DA" opacity="0">
+      <animate attributeName="cx" values="790;1110" dur="5.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0.9;0" keyTimes="0;0.08;0.9;1" dur="5.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="790" cy="126" r="2.1" fill="#0969DA" opacity="0">
+      <animate attributeName="cx" values="790;1110" dur="5.6s" begin="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.55;0.55;0" keyTimes="0;0.08;0.9;1" dur="5.6s" begin="2.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="768" cy="126" r="9" fill="#FFFFFF" stroke="#0969DA" stroke-width="2">
+      <animate attributeName="stroke-opacity" values="1;0.55;1" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
     <circle cx="892" cy="126" r="9" fill="#FFFFFF" stroke="#8C959F" stroke-width="2"/>
     <circle cx="1016" cy="126" r="9" fill="#FFFFFF" stroke="#8C959F" stroke-width="2"/>
-    <circle cx="1132" cy="126" r="9" fill="#0969DA"/>
+    <circle cx="1132" cy="126" r="9" fill="#0969DA">
+      <animate attributeName="opacity" values="1;0.72;1" dur="3.8s" repeatCount="indefinite"/>
+    </circle>
 
     <text x="738" y="158" fill="#1F2328" font-size="12">problem</text>
     <text x="864" y="158" fill="#1F2328" font-size="12">system</text>
