@@ -15,49 +15,49 @@
   <rect x="1" y="1" width="1198" height="278" rx="17" fill="url(#grid)"/>
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="64" y="76" fill="#8B949E" font-size="13" font-weight="600" letter-spacing="2.4">LUCAS LEÃO</text>
-    <text x="64" y="132" fill="#F0F6FC" font-size="42" font-weight="700" letter-spacing="-1.2">Software Engineer</text>
-    <text x="64" y="174" fill="#8B949E" font-size="19" font-weight="500">Full Stack · Data · Applied AI</text>
-    <line x1="64" y1="205" x2="612" y2="205" stroke="#30363D"/>
-    <text x="64" y="232" fill="#8B949E" font-size="14">Designing, shipping and operating software end to end.</text>
+    <text x="64" y="72" fill="#8B949E" font-size="15" font-weight="650" letter-spacing="2.6">LUCAS LEÃO</text>
+    <text x="64" y="132" fill="#F0F6FC" font-size="48" font-weight="750" letter-spacing="-1.4">Software Engineer</text>
+    <text x="64" y="178" fill="#C9D1D9" font-size="22" font-weight="520">Full Stack · Data · Applied AI</text>
+    <line x1="64" y1="207" x2="612" y2="207" stroke="#30363D"/>
+    <text x="64" y="236" fill="#8B949E" font-size="16">Designing, shipping and operating software end to end.</text>
   </g>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
-    <text x="754" y="60" fill="#8B949E" font-size="11" font-weight="600" letter-spacing="1.5">SYSTEM OWNERSHIP</text>
+    <text x="754" y="58" fill="#8B949E" font-size="13" font-weight="650" letter-spacing="1.7">SYSTEM OWNERSHIP</text>
 
-    <path d="M790 126 H870 M914 126 H994 M1038 126 H1110" stroke="#6E7681" stroke-width="1.5" stroke-dasharray="5 6"/>
-    <path class="motion" d="M790 126 H870 M914 126 H994 M1038 126 H1110" stroke="#6E7681" stroke-width="1.5" stroke-dasharray="5 6">
+    <path d="M790 126 H870 M914 126 H994 M1038 126 H1110" stroke="#8B949E" stroke-width="1.8" stroke-dasharray="5 6"/>
+    <path class="motion" d="M790 126 H870 M914 126 H994 M1038 126 H1110" stroke="#58A6FF" stroke-width="1.8" stroke-dasharray="5 6" opacity="0.72">
       <animate attributeName="stroke-dashoffset" from="0" to="-22" dur="2.8s" repeatCount="indefinite"/>
     </path>
 
-    <circle class="motion" cx="790" cy="126" r="2.6" fill="#58A6FF" opacity="0">
+    <circle class="motion" cx="790" cy="126" r="3" fill="#58A6FF" opacity="0">
       <animate attributeName="cx" values="790;1110" dur="5.6s" repeatCount="indefinite"/>
       <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.08;0.9;1" dur="5.6s" repeatCount="indefinite"/>
     </circle>
-    <circle class="motion" cx="790" cy="126" r="2.1" fill="#58A6FF" opacity="0">
+    <circle class="motion" cx="790" cy="126" r="2.4" fill="#58A6FF" opacity="0">
       <animate attributeName="cx" values="790;1110" dur="5.6s" begin="2.8s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.6;0.6;0" keyTimes="0;0.08;0.9;1" dur="5.6s" begin="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0.7;0" keyTimes="0;0.08;0.9;1" dur="5.6s" begin="2.8s" repeatCount="indefinite"/>
     </circle>
 
-    <circle cx="768" cy="126" r="9" fill="#0D1117" stroke="#58A6FF" stroke-width="2"/>
-    <circle class="motion" cx="768" cy="126" r="12" fill="none" stroke="#58A6FF" stroke-width="1.4" opacity="0">
+    <circle cx="768" cy="126" r="10" fill="#0D1117" stroke="#58A6FF" stroke-width="2.2"/>
+    <circle class="motion" cx="768" cy="126" r="13" fill="none" stroke="#58A6FF" stroke-width="1.5" opacity="0">
       <animate attributeName="opacity" values="0;0.5;0" dur="3.8s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="9;13;9" dur="3.8s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="10;14;10" dur="3.8s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="892" cy="126" r="9" fill="#0D1117" stroke="#6E7681" stroke-width="2"/>
-    <circle cx="1016" cy="126" r="9" fill="#0D1117" stroke="#6E7681" stroke-width="2"/>
-    <circle cx="1132" cy="126" r="9" fill="#58A6FF"/>
-    <circle class="motion" cx="1132" cy="126" r="12" fill="none" stroke="#58A6FF" stroke-width="1.4" opacity="0">
+    <circle cx="892" cy="126" r="10" fill="#0D1117" stroke="#8B949E" stroke-width="2.2"/>
+    <circle cx="1016" cy="126" r="10" fill="#0D1117" stroke="#8B949E" stroke-width="2.2"/>
+    <circle cx="1132" cy="126" r="10" fill="#58A6FF"/>
+    <circle class="motion" cx="1132" cy="126" r="13" fill="none" stroke="#58A6FF" stroke-width="1.5" opacity="0">
       <animate attributeName="opacity" values="0;0.4;0" dur="3.8s" begin="1.9s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="9;13;9" dur="3.8s" begin="1.9s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="10;14;10" dur="3.8s" begin="1.9s" repeatCount="indefinite"/>
     </circle>
 
-    <text x="738" y="158" fill="#F0F6FC" font-size="12">problem</text>
-    <text x="864" y="158" fill="#F0F6FC" font-size="12">system</text>
-    <text x="996" y="158" fill="#F0F6FC" font-size="12">ship</text>
-    <text x="1102" y="158" fill="#F0F6FC" font-size="12">operate</text>
+    <text x="734" y="161" fill="#F0F6FC" font-size="14" font-weight="600">problem</text>
+    <text x="858" y="161" fill="#F0F6FC" font-size="14" font-weight="600">system</text>
+    <text x="994" y="161" fill="#F0F6FC" font-size="14" font-weight="600">ship</text>
+    <text x="1096" y="161" fill="#F0F6FC" font-size="14" font-weight="600">operate</text>
 
-    <rect x="754" y="190" width="392" height="34" rx="8" fill="#161B22" stroke="#30363D"/>
-    <text x="772" y="212" fill="#8B949E" font-size="11">domain → architecture → delivery → feedback</text>
+    <rect x="754" y="190" width="392" height="38" rx="8" fill="#161B22" stroke="#30363D"/>
+    <text x="770" y="214" fill="#C9D1D9" font-size="13">domain → architecture → delivery → feedback</text>
   </g>
 </svg>
