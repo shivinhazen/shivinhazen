@@ -1,63 +1,58 @@
-<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
       <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#D0D7DE" stroke-width="1" opacity="0.32"/>
     </pattern>
-    <style>
-      @media (prefers-reduced-motion: reduce) {
-        .motion { display: none; }
-      }
-    </style>
   </defs>
 
-  <rect width="1200" height="280" rx="18" fill="#FFFFFF"/>
-  <rect x="1" y="1" width="1198" height="278" rx="17" stroke="#D0D7DE" stroke-width="2"/>
-  <rect x="1" y="1" width="1198" height="278" rx="17" fill="url(#grid)"/>
+  <rect width="1200" height="300" rx="18" fill="#FFFFFF"/>
+  <rect x="1" y="1" width="1198" height="298" rx="17" stroke="#D0D7DE" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="298" rx="17" fill="url(#grid)"/>
 
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
-    <text x="64" y="72" fill="#59636E" font-size="15" font-weight="650" letter-spacing="2.6">LUCAS LEÃO</text>
-    <text x="64" y="132" fill="#1F2328" font-size="48" font-weight="750" letter-spacing="-1.4">Software Engineer</text>
-    <text x="64" y="178" fill="#424A53" font-size="22" font-weight="520">Full Stack · Data · Applied AI</text>
-    <line x1="64" y1="207" x2="612" y2="207" stroke="#D0D7DE"/>
-    <text x="64" y="236" fill="#59636E" font-size="16">Designing, shipping and operating software end to end.</text>
+    <text x="64" y="70" fill="#59636E" font-size="18" font-weight="700" letter-spacing="2.8">LUCAS LEÃO</text>
+    <text x="64" y="142" fill="#1F2328" font-size="64" font-weight="760" letter-spacing="-1.8">Software Engineer</text>
+    <text x="64" y="194" fill="#424A53" font-size="28" font-weight="560">Full Stack · Data · Applied AI</text>
+    <line x1="64" y1="220" x2="650" y2="220" stroke="#D0D7DE" stroke-width="1.4"/>
+    <text x="64" y="252" fill="#59636E" font-size="18" font-weight="500">Designing, shipping and operating software end to end.</text>
   </g>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
-    <text x="754" y="58" fill="#59636E" font-size="13" font-weight="650" letter-spacing="1.7">SYSTEM OWNERSHIP</text>
+    <text x="760" y="68" fill="#59636E" font-size="15" font-weight="700" letter-spacing="1.8">SYSTEM OWNERSHIP</text>
 
-    <path d="M790 126 H870 M914 126 H994 M1038 126 H1110" stroke="#6E7781" stroke-width="1.8" stroke-dasharray="5 6"/>
-    <path class="motion" d="M790 126 H870 M914 126 H994 M1038 126 H1110" stroke="#0969DA" stroke-width="1.8" stroke-dasharray="5 6" opacity="0.68">
+    <path d="M790 140 H870 M914 140 H994 M1038 140 H1110" stroke="#6E7781" stroke-width="2" stroke-dasharray="5 6"/>
+    <path d="M790 140 H870 M914 140 H994 M1038 140 H1110" stroke="#0969DA" stroke-width="2" stroke-dasharray="5 6" opacity="0.75">
       <animate attributeName="stroke-dashoffset" from="0" to="-22" dur="2.8s" repeatCount="indefinite"/>
     </path>
 
-    <circle class="motion" cx="790" cy="126" r="3" fill="#0969DA" opacity="0">
+    <circle cx="790" cy="140" r="3.5" fill="#0969DA" opacity="0">
       <animate attributeName="cx" values="790;1110" dur="5.6s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.95;0.95;0" keyTimes="0;0.08;0.9;1" dur="5.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.08;0.9;1" dur="5.6s" repeatCount="indefinite"/>
     </circle>
-    <circle class="motion" cx="790" cy="126" r="2.4" fill="#0969DA" opacity="0">
+    <circle cx="790" cy="140" r="2.8" fill="#0969DA" opacity="0">
       <animate attributeName="cx" values="790;1110" dur="5.6s" begin="2.8s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0;0.7;0.7;0" keyTimes="0;0.08;0.9;1" dur="5.6s" begin="2.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.75;0.75;0" keyTimes="0;0.08;0.9;1" dur="5.6s" begin="2.8s" repeatCount="indefinite"/>
     </circle>
 
-    <circle cx="768" cy="126" r="10" fill="#FFFFFF" stroke="#0969DA" stroke-width="2.2"/>
-    <circle class="motion" cx="768" cy="126" r="13" fill="none" stroke="#0969DA" stroke-width="1.5" opacity="0">
-      <animate attributeName="opacity" values="0;0.5;0" dur="3.8s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="10;14;10" dur="3.8s" repeatCount="indefinite"/>
+    <circle cx="768" cy="140" r="11" fill="#FFFFFF" stroke="#0969DA" stroke-width="2.4"/>
+    <circle cx="768" cy="140" r="14" fill="none" stroke="#0969DA" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" values="0;0.55;0" dur="3.8s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="11;15;11" dur="3.8s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="892" cy="126" r="10" fill="#FFFFFF" stroke="#6E7781" stroke-width="2.2"/>
-    <circle cx="1016" cy="126" r="10" fill="#FFFFFF" stroke="#6E7781" stroke-width="2.2"/>
-    <circle cx="1132" cy="126" r="10" fill="#0969DA"/>
-    <circle class="motion" cx="1132" cy="126" r="13" fill="none" stroke="#0969DA" stroke-width="1.5" opacity="0">
-      <animate attributeName="opacity" values="0;0.4;0" dur="3.8s" begin="1.9s" repeatCount="indefinite"/>
-      <animate attributeName="r" values="10;14;10" dur="3.8s" begin="1.9s" repeatCount="indefinite"/>
+    <circle cx="892" cy="140" r="11" fill="#FFFFFF" stroke="#6E7781" stroke-width="2.4"/>
+    <circle cx="1016" cy="140" r="11" fill="#FFFFFF" stroke="#6E7781" stroke-width="2.4"/>
+    <circle cx="1132" cy="140" r="11" fill="#0969DA"/>
+    <circle cx="1132" cy="140" r="14" fill="none" stroke="#0969DA" stroke-width="1.6" opacity="0">
+      <animate attributeName="opacity" values="0;0.45;0" dur="3.8s" begin="1.9s" repeatCount="indefinite"/>
+      <animate attributeName="r" values="11;15;11" dur="3.8s" begin="1.9s" repeatCount="indefinite"/>
     </circle>
 
-    <text x="734" y="161" fill="#1F2328" font-size="14" font-weight="600">problem</text>
-    <text x="858" y="161" fill="#1F2328" font-size="14" font-weight="600">system</text>
-    <text x="994" y="161" fill="#1F2328" font-size="14" font-weight="600">ship</text>
-    <text x="1096" y="161" fill="#1F2328" font-size="14" font-weight="600">operate</text>
+    <text x="728" y="182" fill="#1F2328" font-size="16" font-weight="650">problem</text>
+    <text x="852" y="182" fill="#1F2328" font-size="16" font-weight="650">system</text>
+    <text x="990" y="182" fill="#1F2328" font-size="16" font-weight="650">ship</text>
+    <text x="1088" y="182" fill="#1F2328" font-size="16" font-weight="650">operate</text>
 
-    <rect x="754" y="190" width="392" height="38" rx="8" fill="#F6F8FA" stroke="#D0D7DE"/>
-    <text x="770" y="214" fill="#424A53" font-size="13">domain → architecture → delivery → feedback</text>
+    <rect x="754" y="210" width="392" height="44" rx="9" fill="#F6F8FA" stroke="#D0D7DE"/>
+    <text x="768" y="238" fill="#424A53" font-size="15" font-weight="550">domain → architecture → delivery → feedback</text>
   </g>
 </svg>
