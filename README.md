@@ -1,36 +1,74 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Lucas Leão — Software Engineer — Full Stack, Data and Applied AI" src="./assets/header-light.svg" width="100%">
+</picture>
 
-# Lucas Leão
-
-**Fullstack Engineer** | Data & AI Integrated
-
-<a href="https://www.linkedin.com/in/lucas-leao-shvzn">
-  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:lucasleaobcmt@gmail.com">
-  <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br /><br />
-
-<p align="center" width="400px">
-  Engenheiro de Software focado em <b>Arquitetura Limpa (DDD/Clean Arch)</b> e sistemas escaláveis.<br>
-  Integro o rigor da engenharia backend com a inteligência de dados (Analytics/AI) para criar soluções robustas.
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-leao-shvzn">LinkedIn ↗</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:lucasleaobcmt@gmail.com">Email ↗</a>
 </p>
 
-</div>
+## About
 
-<br />
+I build end-to-end software systems across **product, backend, data, applied AI and infrastructure** — from understanding the domain and defining constraints to architecture, implementation, delivery and operation.
 
-## 🛠️ Tech Stack
+My current work is centered on **data-intensive applications, operational tooling, AI-assisted systems and automation**. I favor explicit contracts, measurable behavior and clear deterministic boundaries around probabilistic systems.
 
-| Domínio | Toolkit |
-| :--- | :--- |
-| **Core & Architecture** | ![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=nodedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript&logoColor=white) ![Clean Arch](https://img.shields.io/badge/Clean_Arch-black?style=flat-square&logoColor=white) |
-| **Web & Mobile** | ![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-black?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Data & AI** | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-black?style=flat-square&logo=postgresql&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=flat-square&logo=openai&logoColor=white) |
-| **Infra & DevOps** | ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-black?style=flat-square&logo=amazon-aws&logoColor=white) |
+## Toolbox
 
-<br />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/react/react-original.svg" width="38" height="38" alt="React" title="React" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nextjs/nextjs-original.svg" width="38" height="38" alt="Next.js" title="Next.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js" title="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/supabase/supabase-original.svg" width="38" height="38" alt="Supabase" title="Supabase" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" title="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linux/linux-original.svg" width="38" height="38" alt="Linux" title="Linux" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/githubactions/githubactions-original.svg" width="38" height="38" alt="GitHub Actions" title="GitHub Actions" />
+</p>
 
+**Languages**  
+`TypeScript` · `JavaScript` · `Python` · `SQL` · `Go`
 
+**Application**  
+`React` · `Next.js` · `Node.js` · `Express` · `NestJS` · `React Native` · `Expo`
+
+**Data & Messaging**  
+`PostgreSQL` · `Supabase` · `Prisma` · `MongoDB` · `RabbitMQ` · `Power BI`
+
+**AI Systems**  
+`LLM APIs` · `Model Routing` · `Agent Workflows` · `Tool Integration`
+
+**Infrastructure**  
+`Docker` · `Linux` · `Azure` · `Oracle Cloud` · `AWS S3` · `Railway` · `Vercel` · `Tailscale`
+
+**Quality & Delivery**  
+`GitHub Actions` · `Playwright` · `Vitest` · `Jest` · `Lighthouse` · `Axe` · `Sentry`
+
+<details>
+<summary><strong>Extended toolbox</strong></summary>
+<br>
+
+**UI & Application tooling**  
+`Tailwind CSS` · `Vite` · `shadcn/ui` · `Radix UI` · `Framer Motion` · `TanStack Query` · `React Hook Form` · `Zod` · `Auth.js / NextAuth` · `Socket.IO`
+
+**Engineering & Operations**  
+`Puppeteer` · `Webpack` · `Babel` · `ESLint` · `Prettier` · `Husky` · `pnpm` · `npm` · `Bash` · `PowerShell` · `tmux` · `systemd`
+
+**Integrations & services**  
+`Nodemailer / SMTP` · `REST APIs` · `WebSockets` · `PWA / Service Workers`
+
+</details>
