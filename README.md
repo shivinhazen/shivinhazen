@@ -5,8 +5,9 @@
 </picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lucas-leao-shvzn"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:lucasleaobcmt@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/lucas-leao-shvzn">LinkedIn ↗</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:lucasleaobcmt@gmail.com">Email ↗</a>
 </p>
 
 ## About
@@ -18,11 +19,25 @@ My current work is centered on **data-intensive applications, operational toolin
 ## Toolbox
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,python,react,nextjs,nodejs,postgres,supabase,docker,linux,githubactions&theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,python,react,nextjs,nodejs,postgres,supabase,docker,linux,githubactions&theme=light">
-    <img alt="Core technologies: TypeScript, Python, React, Next.js, Node.js, PostgreSQL, Supabase, Docker, Linux and GitHub Actions" src="https://skillicons.dev/icons?i=ts,python,react,nextjs,nodejs,postgres,supabase,docker,linux,githubactions&theme=light">
-  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="38" height="38" alt="Python" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="38" height="38" alt="React" title="React" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="38" height="38" alt="Next.js" title="Next.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js" title="Node.js" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="38" height="38" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" width="38" height="38" alt="Supabase" title="Supabase" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="38" height="38" alt="Docker" title="Docker" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="38" height="38" alt="Linux" title="Linux" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="38" height="38" alt="GitHub Actions" title="GitHub Actions" />
 </p>
 
 **Languages**  
