@@ -12,39 +12,20 @@
 
 ## About
 
-I build end-to-end software systems across **product, application, data, applied AI and infrastructure** — from understanding domain constraints to architecture, implementation, delivery and operation.
+I build end-to-end software systems across **product, application, data, applied AI and infrastructure** — from domain constraints to architecture, implementation, delivery and operation.
 
-I care about **explicit interfaces, reproducible environments, observable behavior and deterministic validation**. I use automation and probabilistic systems where they create measurable leverage, with human supervision at the boundaries that matter.
+I favor **explicit interfaces, reproducible environments, observable behavior and deterministic validation**. Automation should reduce real engineering cost or risk, not add complexity for its own sake.
 
-## Engineering approach
+## How I work
 
-<code>Explicit contracts</code> · <code>Reproducible environments</code> · <code>Observable behavior</code> · <code>Deterministic validation</code> · <code>Controlled automation</code>
+I use AI agents as **bounded engineering tools** inside a conventional workflow: design → implement → validate → ship. Tests, CI and human supervision remain the control surface.
 
-I prefer simple, explicit systems first. Additional tooling, automation or agentic workflows should reduce real engineering cost or risk — not create complexity for its own sake.
+**Orchestration** · <code>Hermes</code> · <code>Maestri</code>  
+**Model routing** · <code>OmniRoute</code>  
+**Coding & reasoning** · <code>Codex</code> · <code>Claude Code</code> · <code>OpenCode</code>  
+**Runtime** · <code>Linux</code> · <code>Azure</code> · <code>Oracle Cloud</code> · <code>Tailscale</code>
 
-## Agent-assisted engineering
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/workflow-dark.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/workflow-light.svg?v=1">
-  <img alt="Agent-assisted engineering workflow: problem and design, orchestration, coding and reasoning, validation, delivery, model routing and cloud runtime" src="./assets/workflow-light.svg?v=1" width="100%">
-</picture>
-
-I use AI agents as **bounded components of the engineering workflow**, not as a substitute for engineering judgment. Orchestration and model routing support implementation, review and research; tests, CI and human supervision remain the control surface.
-
-**Orchestration & supervision**  
-<code>Hermes</code> · <code>Maestri</code>
-
-**Model routing**  
-<code>OmniRoute</code>
-
-**Coding & reasoning agents**  
-<code>Codex</code> · <code>Claude Code</code> · <code>OpenCode</code>
-
-**Runtime & remote operations**  
-<code>Linux</code> · <code>Azure</code> · <code>Oracle Cloud</code> · <code>Tailscale</code>
-
-## Core toolbox
+## Toolbox
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/typescript/typescript-original.svg" width="38" height="38" alt="TypeScript" title="TypeScript" />
@@ -64,35 +45,28 @@ I use AI agents as **bounded components of the engineering workflow**, not as a 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/githubactions/githubactions-original.svg" width="38" height="38" alt="GitHub Actions" title="GitHub Actions" />
 </p>
 
-**Languages**  
-<code>TypeScript</code> · <code>JavaScript</code> · <code>Python</code> · <code>SQL</code> · <code>Go</code>
-
-**Application**  
-<code>React</code> · <code>Next.js</code> · <code>Node.js</code> · <code>Express</code> · <code>NestJS</code> · <code>React Native</code> · <code>Expo</code>
-
-**Data**  
-<code>PostgreSQL</code> · <code>Supabase</code> · <code>Prisma</code> · <code>MongoDB</code> · <code>RabbitMQ</code> · <code>Power BI</code>
-
-**Applied AI & automation**  
-<code>LLM APIs</code> · <code>Model Routing</code> · <code>Tool Integration</code> · <code>Structured Outputs</code> · <code>Agent Workflows</code>
-
-**Infrastructure & operations**  
-<code>Docker</code> · <code>Linux</code> · <code>Azure</code> · <code>Oracle Cloud</code> · <code>AWS S3</code> · <code>Railway</code> · <code>Vercel</code> · <code>Netlify</code> · <code>Tailscale</code>
-
-**Quality & delivery**  
-<code>GitHub Actions</code> · <code>Playwright</code> · <code>Vitest</code> · <code>Jest</code> · <code>Lighthouse</code> · <code>Axe</code> · <code>Sentry</code>
+**Build** · <code>TypeScript</code> · <code>Python</code> · <code>React</code> · <code>Next.js</code> · <code>Node.js</code>  
+**Data** · <code>PostgreSQL</code> · <code>Supabase</code> · <code>Prisma</code>  
+**Infrastructure** · <code>Docker</code> · <code>GitHub Actions</code> · <code>Azure</code> · <code>Oracle Cloud</code> · <code>Tailscale</code>  
+**Quality** · <code>Playwright</code> · <code>Vitest</code> · <code>Jest</code>
 
 <details>
 <summary><strong>Extended toolbox</strong></summary>
 <br>
 
+**Languages & application**  
+<code>JavaScript</code> · <code>SQL</code> · <code>Go</code> · <code>Express</code> · <code>NestJS</code> · <code>React Native</code> · <code>Expo</code>
+
+**Data & applied AI**  
+<code>MongoDB</code> · <code>RabbitMQ</code> · <code>Power BI</code> · <code>LLM APIs</code> · <code>Structured Outputs</code> · <code>Tool Integration</code> · <code>Agent Workflows</code>
+
 **UI & application tooling**  
 <code>Tailwind CSS</code> · <code>Vite</code> · <code>shadcn/ui</code> · <code>Radix UI</code> · <code>Framer Motion</code> · <code>TanStack Query</code> · <code>React Hook Form</code> · <code>Zod</code> · <code>Auth.js / NextAuth</code> · <code>Socket.IO</code>
 
 **Engineering & operations**  
-<code>Puppeteer</code> · <code>Webpack</code> · <code>Babel</code> · <code>ESLint</code> · <code>Prettier</code> · <code>Husky</code> · <code>pnpm</code> · <code>npm</code> · <code>Bash</code> · <code>PowerShell</code> · <code>tmux</code> · <code>systemd</code>
+<code>AWS S3</code> · <code>Railway</code> · <code>Vercel</code> · <code>Netlify</code> · <code>Sentry</code> · <code>Lighthouse</code> · <code>Axe</code> · <code>Puppeteer</code> · <code>Webpack</code> · <code>Babel</code> · <code>ESLint</code> · <code>Prettier</code> · <code>Husky</code> · <code>pnpm</code> · <code>npm</code> · <code>Bash</code> · <code>PowerShell</code> · <code>tmux</code> · <code>systemd</code>
 
-**Integrations & services**  
+**Integrations**  
 <code>Nodemailer / SMTP</code> · <code>REST APIs</code> · <code>WebSockets</code> · <code>PWA / Service Workers</code>
 
 </details>
