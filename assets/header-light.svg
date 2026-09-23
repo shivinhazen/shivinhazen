@@ -12,9 +12,9 @@
   <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
     <text x="64" y="70" fill="#59636E" font-size="18" font-weight="700" letter-spacing="2.8">LUCAS LEÃO</text>
     <text x="64" y="142" fill="#1F2328" font-size="64" font-weight="760" letter-spacing="-1.8">Software Engineer</text>
-    <text x="64" y="194" fill="#424A53" font-size="28" font-weight="560">Full Stack · Data · Applied AI</text>
+    <text x="64" y="194" fill="#424A53" font-size="28" font-weight="560">Full Stack · Data · Cloud · Applied AI</text>
     <line x1="64" y1="220" x2="650" y2="220" stroke="#D0D7DE" stroke-width="1.4"/>
-    <text x="64" y="252" fill="#59636E" font-size="18" font-weight="500">Designing, shipping and operating software end to end.</text>
+    <text x="64" y="252" fill="#59636E" font-size="18" font-weight="500">Building reliable systems from problem to operation.</text>
   </g>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
