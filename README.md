@@ -10,6 +10,8 @@ I build end-to-end software systems across **product, application, data, applied
 
 I favor **explicit interfaces, reproducible environments, observable behavior and deterministic validation**. Automation should reduce real engineering cost or risk, not add complexity for its own sake.
 
+<sub><a href="https://www.linkedin.com/in/lucas-leao-shvzn"><strong>LinkedIn ↗</strong></a> · <a href="mailto:lucasleaobcmt@gmail.com"><strong>Email ↗</strong></a></sub>
+
 ## How I work
 
 I use AI agents as **bounded engineering tools** inside a conventional workflow: design → implement → validate → ship. Tests, CI and human supervision remain the control surface.
@@ -76,9 +78,3 @@ I use AI agents as **bounded engineering tools** inside a conventional workflow:
 <code>REST APIs</code> · <code>WebSockets</code> · <code>Nodemailer / SMTP</code> · <code>PWA / Service Workers</code>
 
 </details>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-leao-shvzn"><img src="./assets/contact-linkedin.svg?v=1" height="36" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="mailto:lucasleaobcmt@gmail.com"><img src="./assets/contact-email.svg?v=1" height="36" alt="Email"></a>
-</p>
